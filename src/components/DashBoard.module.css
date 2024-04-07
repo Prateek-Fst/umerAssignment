@@ -1,0 +1,12 @@
+.main{
+    width:17vw;
+}
+.box{
+    border: 1px solid black;
+    padding: 3vh;
+    border-radius: 2vh;
+    background-color: aqua;
+}
+.dash{
+    margin-left:4vw
+}

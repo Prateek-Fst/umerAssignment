@@ -10,8 +10,8 @@ cd  repo-name
 ## Install dependencies:
 
 npm install
-Run the below command to  start the server 
-nom start 
+after that run the command 
+nom start to start the server
 ## Usage
 
 This broject  contains only the front end with the hrlp of this we can learn about fetching the data from API
